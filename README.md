@@ -5,4 +5,5 @@ Trabalhos / Atividades Disciplina informática aplicada
 ## Atividade 2: Analise exploratória de Restaurantes, bares e cafeterias via Microsoft Excel
 Uso de Formulas CONT.VALORES, CONT.SES, PROCV E CONT.SE
 <img width="1898" height="977" alt="image" src="https://github.com/user-attachments/assets/5c0d6f62-5ad6-4246-8058-4b5696943bd5" />
-
+## Atividade 3: Plano de Produtos  e exportações dados Comex Stat VIA Microsoft Excel 
+uso de formulas: PROCV
