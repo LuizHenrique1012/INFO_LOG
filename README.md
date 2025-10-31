@@ -14,3 +14,6 @@ uso de formulas: PROCV
 ## Atividade 4: Interpretação de Dados por Power BI
 <img width="1915" height="993" alt="image" src="https://github.com/user-attachments/assets/538d75a0-d012-4d67-8163-f7bffc73c284" />
 https://github.com/LuizHenrique1012/INFO_LOG/blob/main/info-aula-BI.pbix
+
+## Atividade 5: Visualização de Dados Por Power BI 
+<img width="1489" height="868" alt="image" src="https://github.com/user-attachments/assets/90e9ed55-c493-4c70-a789-3b90dd3ba812" />
