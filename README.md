@@ -18,5 +18,5 @@ https://github.com/LuizHenrique1012/INFO_LOG/blob/main/info-aula-BI.pbix
 ## Atividade 5: Visualização de Dados Por Power BI 
 <img width="1489" height="868" alt="image" src="https://github.com/user-attachments/assets/90e9ed55-c493-4c70-a789-3b90dd3ba812" />
 
-##Atividade 6: GRáfico de Vendas vs Temperatura por Regressão linear do Sorvete
+## Atividade 6: GRáfico de Vendas vs Temperatura por Regressão linear do Sorvete
 <img width="1188" height="867" alt="image" src="https://github.com/user-attachments/assets/5cb77cb4-9af3-467c-9407-a8a37d9f202d" />
