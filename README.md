@@ -18,6 +18,7 @@ Manuseio e tratamento de dado no Power BI
 https://github.com/LuizHenrique1012/INFO_LOG/blob/main/info-aula-BI.pbix
 
 ## Atividade 5: Visualização de Dados Por Power BI 
+https://github.com/LuizHenrique1012/INFO_LOG/blob/main/Power%20BI%20Bandeiras%20de%20Estados.pbix
 Exploração de dados Power BI
 <img width="1489" height="868" alt="image" src="https://github.com/user-attachments/assets/90e9ed55-c493-4c70-a789-3b90dd3ba812" />
 
