@@ -21,6 +21,7 @@ Exploração de dados Power BI
 <img width="1489" height="868" alt="image" src="https://github.com/user-attachments/assets/90e9ed55-c493-4c70-a789-3b90dd3ba812" />
 
 ## Atividade 6: Gráfico de Vendas vs Temperatura por Regressão linear do Sorvete
+https://github.com/LuizHenrique1012/INFO_LOG/blob/main/Sorvete.xlsx
 <img width="1188" height="867" alt="image" src="https://github.com/user-attachments/assets/5cb77cb4-9af3-467c-9407-a8a37d9f202d" />
 <img width="1256" height="852" alt="image" src="https://github.com/user-attachments/assets/b4bc5971-d035-403d-ad56-f1621b057a9d" />
 
