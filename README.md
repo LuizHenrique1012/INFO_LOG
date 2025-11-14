@@ -26,5 +26,6 @@ https://github.com/LuizHenrique1012/INFO_LOG/blob/main/Sorvete.xlsx
 <img width="1256" height="852" alt="image" src="https://github.com/user-attachments/assets/b4bc5971-d035-403d-ad56-f1621b057a9d" />
 
 ## Atividade 7: Gráfico de Regressão Linear - Salário
+https://github.com/LuizHenrique1012/INFO_LOG/blob/main/Salario.xlsx
 <img width="1099" height="790" alt="image" src="https://github.com/user-attachments/assets/25198866-cd48-47b2-bf10-36621fdd2385" />
 <img width="1253" height="920" alt="image" src="https://github.com/user-attachments/assets/e17a42e1-126f-4127-ad33-b6f5f3c4638f" />
