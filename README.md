@@ -20,3 +20,4 @@ https://github.com/LuizHenrique1012/INFO_LOG/blob/main/info-aula-BI.pbix
 
 ## Atividade 6: Gráfico de Vendas vs Temperatura por Regressão linear do Sorvete
 <img width="1188" height="867" alt="image" src="https://github.com/user-attachments/assets/5cb77cb4-9af3-467c-9407-a8a37d9f202d" />
+<img width="1160" height="801" alt="image" src="https://github.com/user-attachments/assets/47ddf667-d86c-47e5-89f0-11b5cccbd34d" />
