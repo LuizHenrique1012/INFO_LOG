@@ -31,3 +31,6 @@ https://github.com/LuizHenrique1012/INFO_LOG/blob/main/Sorvete.xlsx
 https://github.com/LuizHenrique1012/INFO_LOG/blob/main/Salario.xlsx
 <img width="1099" height="790" alt="image" src="https://github.com/user-attachments/assets/25198866-cd48-47b2-bf10-36621fdd2385" />
 <img width="1253" height="920" alt="image" src="https://github.com/user-attachments/assets/e17a42e1-126f-4127-ad33-b6f5f3c4638f" />
+## Atividade 8: interação do dashborad - Prova Informática aplicada
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/8dd137eb-4891-4bce-8f1a-95dcc0098e8d" />
+
